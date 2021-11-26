@@ -2,7 +2,7 @@ project "glm"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++11"
-	staticruntime "on"
+	staticruntime "off"
 	
 	files
 		{
